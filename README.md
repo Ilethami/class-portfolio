@@ -22,6 +22,7 @@ If you are developing a production application, we recommend using TypeScript wi
 Clone Git (Make sure you have git installed)
 go to folder you want to clone the repository
 run ```git clone https://github.com/Ilethami/class-portfolio.git```
+
 Make sure you have node.js installed and running.
 To verify put in your terminal 
 ```npm -v```
