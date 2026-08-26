@@ -17,3 +17,14 @@ You can also try [the experimental native React Compiler support in plugin-react
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+# How to see site
+Clone Git (Make sure you have git installed)
+go to folder you want to clone the repository
+run ```git clone https://github.com/Ilethami/class-portfolio.git```
+
+Make sure you have node.js installed and running.
+To verify put in your terminal 
+```npm -v```
+then go to Repository folder location and run
+```npm i```
